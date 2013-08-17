@@ -1,0 +1,51 @@
+/*
+************************************************************
+* Bag Pack 1.5                                             *
+* Pure CSS Framework IE Specific                           *
+*                                                          *
+* Based on the thinking of a bag and a rising mind         *
+* Any one can use under the GNU General Public Licence     *                                  
+* http://opensource.org/licenses/GPL-3.0                   *
+* Copyright 2013, Ishaan Rawat                             *
+* http://backpack.ishaanrawat.com                          *
+************************************************************
+*/
+
+/*
+***********************************************************************************
+Basic Reset for ie
+***********************************************************************************
+*/
+
+audio,
+canvas,
+video {
+    display: inline !important;
+}
+
+legend {
+    margin-left: -7px !important; 
+}
+
+button,
+input,
+select,
+textarea {
+    vertical-align: middle !important;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    overflow: visible !important;
+}
+button[disabled],
+input[disabled] {
+    cursor: default !important;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    height: 13px !important;
+    width: 13px !important;
+}
