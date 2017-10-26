@@ -1,0 +1,38 @@
+body {
+    background: #fbcece
+}
+.bag {
+    background: #f89e9e
+}
+.grid-row {
+    margin-bottom: 20px
+}
+.grid-row .pocket,
+.grid-row .pockets {
+    height: 40vh;
+    -webkit-transition: all .1s ease-in-out;
+    -moz-transition: all .1s ease-in-out;
+    -ms-transition: all .1s ease-in-out;
+    -o-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    background: #f35f5f
+}
+.grid-row .pocket:hover,
+.grid-row .pockets:hover {
+    box-shadow: 0px 0px 10px
+}
+.grid-sec:hover .grid-row:not(:hover) {
+    opacity: 0.2;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+.grid-row:hover .pockets:not(:hover),
+.grid-row:hover .pocket:not(:hover) {
+    opacity: 0.75;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
