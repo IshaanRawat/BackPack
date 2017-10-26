@@ -7,6 +7,7 @@ Pure CSS Responsive Framework</h2>
 <h4 align="center"><a href="https://ishaanrawat.github.io/BackPack">BackPack Website</a></h4>
 
 <h2 align="center">Changelogs</h2>
+<p><strong>Version 3.0 (26<sup>th</sup> October 2017) Updated to 3.0 with CSS Grid System opening a lot of opportunities for designing and positioning elements on the web page.</strong></p>
 <p><strong>Version 2.0 (May 2015)</strong> Updated and Optimized the code with percentages.</p>
 <p><strong>Version 1.5 (17<sup>th</sup> August 2013)</strong> Validated the codes with <a href="http://jigsaw.w3.org/css-validator/validator?uri=backpack.ishaanrawat.com&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;vextwarning=">W3C</a> and added support for older IE browsers like HTML5shiv. Integrated with <a href="https://github.com/IshaanRawat/">Github</a></p>
 <p><strong>(4<sup>th</sup> August 2013)</strong> Added smooth scrolling in the docs and updated the docs with the center class info and also added how to update your BackPack.</p>
