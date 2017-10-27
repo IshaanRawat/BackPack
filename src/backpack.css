@@ -258,6 +258,7 @@ textarea {
 .bag {
     width: 85vw;
     margin: 0 auto;
+    display: grid;
 }
 
 .chain {
