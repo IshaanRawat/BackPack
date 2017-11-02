@@ -1,4 +1,4 @@
-<h1 align="center">BackPack 2.0<br>
+<h1 align="center">BackPack 3.0<br>
 Pure CSS Responsive Framework</h2>
 
 <p>BackPack is a pure CSS framework which provides you a simple grid to work on your web projects. The best part about BackPack is the site looks just the same in all resolutions (except mobile) with the width fixed according to the screen (Thanks to the percentage based styling).</p>
